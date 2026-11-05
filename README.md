@@ -21,15 +21,11 @@ name       : Luiz Felipe (lfps)
 role       : Software Development Student
 studying   : Systems Analysis & Development @ Facimp Wyden
 location   : Brazil
-daily      : Debian + a home lab running Docker, Nginx and Tailscale
-interests  : linux & security · backend · automation & AI tools · self-hosting · databases
+interests  : linux & security · backend · automation & AI tools · self-hosting
 
 lfps@debian:~$ cat now.txt
 Leveling up in backend development, databases, automation and cloud.
 Looking for remote internships and entry-level roles.
-
-lfps@debian:~$ cat motto.txt
-"Hands-on experience is the fastest way to become a better developer."
 ```
 
 ### `$ ls ~/stack`
