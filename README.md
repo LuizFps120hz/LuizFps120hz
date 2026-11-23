@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://luizfps120hz.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=3DFF9A&center=true&vCenter=true&width=640&height=48&lines=%3E+hi%2C+I%27m+Luiz+Felipe;%3E+software+development+student;%3E+python+hobbyist+%C2%B7+linux+enthusiast;%3E+self-hosting+tinkerer_" alt="> hi, I'm Luiz Felipe" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=3DFF9A&center=true&vCenter=true&width=640&height=48&lines=%3E+hi%2C+I%27m+Luiz+Felipe;%3E+software+development+student;%3E+shipping+a+Rust+%2B+Tauri+launcher;%3E+full-stack+%C2%B7+mobile+%C2%B7+3D+modeling;%3E+linux+%26+self-hosting+tinkerer_" alt="> hi, I'm Luiz Felipe" />
 </a>
 
 <a href="https://luizfps120hz.github.io"><img src="https://img.shields.io/badge/portfolio-luizfps120hz.github.io-0d1117?style=flat-square&labelColor=0d1117&color=1d5c40&logo=gnubash&logoColor=3dff9a" alt="Portfolio" /></a>
@@ -21,10 +21,11 @@ name       : Luiz Felipe (lfps)
 role       : Software Development Student
 studying   : Systems Analysis & Development @ Facimp Wyden
 location   : Brazil
-interests  : linux & security · backend · automation & AI tools · self-hosting
+interests  : linux & security · backend · desktop apps · automation & AI agents · 3D
 
 lfps@debian:~$ cat now.txt
-Leveling up in backend development, databases, automation and cloud.
+Building desktop apps in Rust + Tauri, full-stack and mobile apps,
+and exploring 3D modeling and AI-assisted development.
 Looking for remote internships and entry-level roles.
 ```
 
@@ -33,41 +34,59 @@ Looking for remote internships and entry-level roles.
 <p>
 <code>languages</code><br />
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3dff9a" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3dff9a" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=3dff9a" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=3dff9a" alt="Rust" />
 <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=3dff9a" alt="PHP" />
 <br /><br />
-<code>web</code><br />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3dff9a" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=3dff9a" alt="CSS" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3dff9a" alt="Tailwind CSS" />
+<code>web &amp; mobile</code><br />
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=3dff9a" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=3dff9a" alt="Nextjs" />
+<img src="https://img.shields.io/badge/Astro-0d1117?style=for-the-badge&logo=astro&logoColor=3dff9a" alt="Astro" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3dff9a" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=3dff9a" alt="Expo" />
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=3dff9a" alt="React Native" />
 <br /><br />
-<code>backend</code><br />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3dff9a" alt="Node.js" />
+<code>backend &amp; data</code><br />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3dff9a" alt="Nodejs" />
 <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=3dff9a" alt="Express" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=3dff9a" alt="Flask" />
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=3dff9a" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=3dff9a" alt="Flask" />
 <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=3dff9a" alt="Django" />
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=3dff9a" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3dff9a" alt="Supabase" />
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=3dff9a" alt="MongoDB" />
 <br /><br />
-<code>infra</code><br />
+<code>desktop &amp; bots</code><br />
+<img src="https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=3dff9a" alt="Tauri" />
+<img src="https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=3dff9a" alt="Discordjs" />
+<br /><br />
+<code>infra &amp; ci</code><br />
 <img src="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=3dff9a" alt="Debian" />
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3dff9a" alt="Docker" />
 <img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=3dff9a" alt="Nginx" />
 <img src="https://img.shields.io/badge/Tailscale-0d1117?style=for-the-badge&logo=tailscale&logoColor=3dff9a" alt="Tailscale" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=3dff9a" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=3dff9a" alt="Vercel" />
 <img src="https://img.shields.io/badge/Pterodactyl-0d1117?style=for-the-badge&logo=pterodactyl&logoColor=3dff9a" alt="Pterodactyl" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3dff9a" alt="Git" />
+<br /><br />
+<code>3d &amp; game dev</code><br />
+<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=3dff9a" alt="Blender" />
+<img src="https://img.shields.io/badge/Blockbench-0d1117?style=for-the-badge&logo=minecraft&logoColor=3dff9a" alt="Blockbench" />
+<img src="https://img.shields.io/badge/Minecraft_Modding-0d1117?style=for-the-badge&logo=curseforge&logoColor=3dff9a" alt="Minecraft Modding" />
+<br /><br />
+<code>ai tooling</code><br />
+<img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=3dff9a" alt="Claude Code" />
+<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=3dff9a" alt="MCP" />
 </p>
 
 ### `$ ls ~/projects --featured`
 
 | project | what it does | stack | where |
 | :-- | :-- | :-- | :-- |
+| **[ametista](https://github.com/LuizFps120hz/ametista-launcher)** | Lightweight Minecraft: Java Edition launcher with official Microsoft sign-in, curated modpacks and auto-updates. Public beta. | Rust · Tauri 2 · JS | [download](https://luizfps120hz.github.io/ametista-launcher/) · [packs](https://github.com/LuizFps120hz/ametista-packs) |
 | **[wynnbuilder](https://github.com/LuizFps120hz/wynnbuilder)** | Gear optimizer for Wynncraft: searches item combinations, validates skill points and ranks the best builds. Static, runs in the browser. | JavaScript | [repo](https://github.com/LuizFps120hz/wynnbuilder) · [live](https://luizfps120hz.github.io/wynnbuilder/) |
-| **caixa-web** | Personal finance hub: balance, upcoming payments, a bill calendar and projections in one place. React frontend + separate Express API. | React · Express · PostgreSQL | not public yet |
-| **debian-maintenance-tool** | Keeps a Debian machine healthy: system health checks, app management and disk management in one tool. | Debian · Linux | not public yet |
-| **home-lab** | Self-hosted web services across several machines at home, behind Nginx and reachable over Tailscale. | Docker · Nginx · Tailscale | ongoing |
 | **portfolio** | My personal site: terminal aesthetic, strict CSP, zero trackers. | Astro · Tailwind · TypeScript | [luizfps120hz.github.io](https://luizfps120hz.github.io) |
 
 ### `$ git log --stats`
