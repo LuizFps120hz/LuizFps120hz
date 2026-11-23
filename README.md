@@ -31,55 +31,15 @@ Looking for remote internships and entry-level roles.
 
 ### `$ ls ~/stack`
 
-<p>
-<code>languages</code><br />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3dff9a" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3dff9a" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=3dff9a" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=3dff9a" alt="Rust" />
-<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=3dff9a" alt="PHP" />
-<br /><br />
-<code>web &amp; mobile</code><br />
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=3dff9a" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=3dff9a" alt="Nextjs" />
-<img src="https://img.shields.io/badge/Astro-0d1117?style=for-the-badge&logo=astro&logoColor=3dff9a" alt="Astro" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=3dff9a" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=3dff9a" alt="Expo" />
-<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=3dff9a" alt="React Native" />
-<br /><br />
-<code>backend &amp; data</code><br />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3dff9a" alt="Nodejs" />
-<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=3dff9a" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=3dff9a" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=3dff9a" alt="Flask" />
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=3dff9a" alt="Django" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=3dff9a" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3dff9a" alt="Supabase" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=3dff9a" alt="MongoDB" />
-<br /><br />
-<code>desktop &amp; bots</code><br />
-<img src="https://img.shields.io/badge/Tauri-0d1117?style=for-the-badge&logo=tauri&logoColor=3dff9a" alt="Tauri" />
-<img src="https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=3dff9a" alt="Discordjs" />
-<br /><br />
-<code>infra &amp; ci</code><br />
-<img src="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=3dff9a" alt="Debian" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3dff9a" alt="Docker" />
-<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=3dff9a" alt="Nginx" />
-<img src="https://img.shields.io/badge/Tailscale-0d1117?style=for-the-badge&logo=tailscale&logoColor=3dff9a" alt="Tailscale" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=3dff9a" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=3dff9a" alt="Vercel" />
-<img src="https://img.shields.io/badge/Pterodactyl-0d1117?style=for-the-badge&logo=pterodactyl&logoColor=3dff9a" alt="Pterodactyl" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=3dff9a" alt="Git" />
-<br /><br />
-<code>3d &amp; game dev</code><br />
-<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=3dff9a" alt="Blender" />
-<img src="https://img.shields.io/badge/Blockbench-0d1117?style=for-the-badge&logo=minecraft&logoColor=3dff9a" alt="Blockbench" />
-<img src="https://img.shields.io/badge/Minecraft_Modding-0d1117?style=for-the-badge&logo=curseforge&logoColor=3dff9a" alt="Minecraft Modding" />
-<br /><br />
-<code>ai tooling</code><br />
-<img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=claude&logoColor=3dff9a" alt="Claude Code" />
-<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=3dff9a" alt="MCP" />
-</p>
+<table>
+<tr><td align="right"><code>languages</code></td><td><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3dff9a" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3dff9a" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=3dff9a" alt="JavaScript" /> <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=3dff9a" alt="Rust" /> <img src="https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=3dff9a" alt="PHP" /></td></tr>
+<tr><td align="right"><code>web · mobile</code></td><td><img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=3dff9a" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=3dff9a" alt="Next.js" /> <img src="https://img.shields.io/badge/Astro-161b22?style=flat-square&logo=astro&logoColor=3dff9a" alt="Astro" /> <img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=3dff9a" alt="Tailwind" /> <img src="https://img.shields.io/badge/Expo-161b22?style=flat-square&logo=expo&logoColor=3dff9a" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=3dff9a" alt="React Native" /></td></tr>
+<tr><td align="right"><code>backend · data</code></td><td><img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=3dff9a" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=3dff9a" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=3dff9a" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=3dff9a" alt="Flask" /> <img src="https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=3dff9a" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=3dff9a" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3dff9a" alt="Supabase" /> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=3dff9a" alt="MongoDB" /></td></tr>
+<tr><td align="right"><code>desktop · bots</code></td><td><img src="https://img.shields.io/badge/Tauri-161b22?style=flat-square&logo=tauri&logoColor=3dff9a" alt="Tauri" /> <img src="https://img.shields.io/badge/Discord.js-161b22?style=flat-square&logo=discord&logoColor=3dff9a" alt="Discord.js" /></td></tr>
+<tr><td align="right"><code>infra · ci</code></td><td><img src="https://img.shields.io/badge/Debian-161b22?style=flat-square&logo=debian&logoColor=3dff9a" alt="Debian" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=3dff9a" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=3dff9a" alt="Nginx" /> <img src="https://img.shields.io/badge/Tailscale-161b22?style=flat-square&logo=tailscale&logoColor=3dff9a" alt="Tailscale" /> <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=3dff9a" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=3dff9a" alt="Vercel" /> <img src="https://img.shields.io/badge/Pterodactyl-161b22?style=flat-square&logo=pterodactyl&logoColor=3dff9a" alt="Pterodactyl" /> <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=3dff9a" alt="Git" /></td></tr>
+<tr><td align="right"><code>3d · game dev</code></td><td><img src="https://img.shields.io/badge/Blender-161b22?style=flat-square&logo=blender&logoColor=3dff9a" alt="Blender" /> <img src="https://img.shields.io/badge/Blockbench-161b22?style=flat-square&logo=blockbench&logoColor=3dff9a" alt="Blockbench" /> <img src="https://img.shields.io/badge/Minecraft_Modding-161b22?style=flat-square&logo=curseforge&logoColor=3dff9a" alt="Minecraft Modding" /></td></tr>
+<tr><td align="right"><code>ai tooling</code></td><td><img src="https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=claude&logoColor=3dff9a" alt="Claude Code" /> <img src="https://img.shields.io/badge/MCP-161b22?style=flat-square&logo=modelcontextprotocol&logoColor=3dff9a" alt="MCP" /></td></tr>
+</table>
 
 ### `$ ls ~/projects --featured`
 
